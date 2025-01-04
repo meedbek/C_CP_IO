@@ -1,0 +1,1 @@
+# Helper IO functions for competitive programming problems
